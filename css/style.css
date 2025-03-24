@@ -133,7 +133,7 @@ p a {
   background-color: var(--primary-color) !important;
 }
 .header {
-  background: url("/assets/images/doc-globe.png") no-repeat center center/cover;
+  background: url("./assets/images/doc-globe.png") no-repeat center center/cover;
   height: 100vh; /* Full viewport height */
   position: relative;
   color: white;
